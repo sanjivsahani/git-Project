@@ -14,6 +14,7 @@ function App() {
     <h1>
 changes the Git project 
     </h1>
+    to cerate  new braanch 
     </>
   )
 }
