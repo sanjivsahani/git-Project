@@ -11,6 +11,9 @@ function App() {
       <h2>git init</h2>
       Create empty Git repo in specified directory. Run with no
       arguments to initialize the current directory as a git repository
+    <h1>
+changes the Git project 
+    </h1>
     </>
   )
 }
