@@ -15,6 +15,8 @@ function App() {
 changes the Git project 
     </h1>
     to cerate  new braanch 
+
+    i already created a new branch 
     </>
   )
 }
